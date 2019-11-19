@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ARGE1606\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ARGE1606\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_InputManager.1607462153.00" t="ExcludeRecursive" />
+    <e p="D:\ArgentieriOlivier\PullGithub\InputManager_unity\InputManager" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="InputManager" t="Include">
+          <e p="Import" t="Include">
+            <e p="SingleTemplate" t="Include">
+              <e p="SingletonTemplate.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="InputManager" t="Include">
+              <e p="InputManager.cs" t="Include" />
+            </e>
+            <e p="MyKey.cs" t="Include" />
+            <e p="MyKeyUI.cs" t="Include" />
+            <e p="TestMyKey.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="InputManager.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
